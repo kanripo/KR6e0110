@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 法界圖記叢髓錄
+#+DATE: 2015-09-28 22:58:18.007128
+#+PROPERTY: JUAN 0
