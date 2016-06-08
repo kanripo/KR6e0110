@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 13:42
+#+DATE: 2016-06-08 13:43
 #+TITLE: 法界圖記叢髓錄
 #+PROPERTY: CBETA_ID T45n1887B
 #+PROPERTY: ID KR6e0110
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1887B
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6e0110_T_000-0716a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0110_T_002-0743a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
@@ -330,7 +330,7 @@
 之中受苦無窮。如世間河漂沒相似。凡¶
 夫不覺故。智者了達則不從流。修道斷除¶
 即得出離。夫十二因緣者。生死繫縛之因¶
-緣也。必須滅此因緣。乃得兌於生死。是
+緣也。必須滅此因緣。乃得脫於生死。是
 <pb:KR6e0110_T_002-0746c>¶
 故經云。無明滅則行滅。乃至生滅則老死¶
 滅。滅此因緣要須修道。問。云何修道。答。推¶
