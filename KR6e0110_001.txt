@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:17.679718
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:43
 #+TITLE: 法界圖記叢髓錄
 #+PROPERTY: CBETA_ID T45n1887B
 #+PROPERTY: ID KR6e0110
